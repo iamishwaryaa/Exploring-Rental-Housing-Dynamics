@@ -1,9 +1,11 @@
 # Apartment Rental Price Analysis
 
 ## Overview
-This project explores the dynamics of apartment rental prices in the United States using data-driven techniques. By analyzing a dataset of over 10,000 apartment listings, the study investigates how factors such as apartment size, bedroom count, location, amenities, and pet policies affect rental prices. The goal is to understand key drivers of pricing and predict rental costs using machine learning models.  
+This project explores the dynamics of apartment rental prices in the United States using data-driven techniques. The **full data story has been published** and can be read on [Medium here](https://medium.com/@m.ishwaryarani/exploring-rental-housing-dynamics-a-data-driven-analysis-cb0e16e36f9e).  
 
-The analysis shows that location and apartment size are the most influential factors, while amenities and pet policies play supporting roles. This provides insights for renters, landlords, and policymakers about what truly drives rental prices.
+By analyzing a dataset of over 10,000 apartment listings, the study investigates how factors such as apartment size, bedroom count, location, amenities, and pet policies affect rental prices. The goal is to understand key drivers of pricing and predict rental costs using machine learning models.  
+
+The analysis shows that **location and apartment size are the most influential factors**, while amenities and pet policies play supporting roles. These insights are valuable for renters, landlords, and policymakers to better understand the rental market.
 
 ---
 
